@@ -86,22 +86,6 @@ MSCP/
 3. Advanced Topics
 4. Practice and Contests
 
-## Run Locally
-
-You can open index.html directly, or run a local static server.
-
-Example:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000/
-```
-
 ## Data and Page Generation
 
 When the Google Sheet changes, regenerate content using:
