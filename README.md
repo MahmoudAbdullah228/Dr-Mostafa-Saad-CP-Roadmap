@@ -98,6 +98,11 @@ When the Google Sheet changes, regenerate content using:
 This project is deployed on Netlify as a static site.
 Netlify configuration is in netlify.toml.
 
+## SEO
+
+- `sitemap.xml` is included at the site root and uses `https://cp-roadmap.netlify.app/` as the base URL.
+- The pages include a Google site verification meta tag for Search Console submission.
+
 ## Notes
 
 - Progress is browser-local and may differ between devices.
