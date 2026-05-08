@@ -435,7 +435,7 @@
   html +=
     '</div><div class="footer">' +
     '<div style="margin-top:0.35rem"><span style="color:#ffffff;font-weight:700;display:inline-block;font-size:1rem">All intellectual property rights belong to <span style="color:var(--page-accent);font-weight:700">Dr. Mostafa Saad</span></span></div>' +
-    '<div style="margin-top:0.25rem"><span style="color:#7c8fa6;display:inline-block;font-size:1.05rem">Developed by <a href="https://www.linkedin.com/in/eng-mahmoud-m-abdullah-a04792295/" target="_blank" rel="noopener" style="color:var(--page-accent);font-weight:700;text-decoration:none">Mahmoud Abdullah</a></span></div></div>';
+    '<div style="margin-top:0.25rem"><span style="color:#7c8fa6;display:inline-block;font-size:1.05rem">Developed by <a href="https://mahmoud-abdullah-portfolio.netlify.app/" target="_blank" rel="noopener" style="color:var(--page-accent);font-weight:700;text-decoration:none">Mahmoud Abdullah</a></span></div></div>';
 
   root.innerHTML = html;
 
